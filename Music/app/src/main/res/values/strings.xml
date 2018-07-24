@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Music</string>
+
+    <string name="previous">previous</string>
+
+    <string name="pause">pause</string>
+
+    <string name="next">next</string>
+
+    <string name="play">play</string>
+
+    <string name="cancel">cancel</string>
+
+</resources>
